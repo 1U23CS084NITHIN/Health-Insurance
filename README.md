@@ -1,4 +1,3 @@
-# Health-Insurance
 # Health-Insurance-premium-prediction
 # Health-Insurance Charges Prediction
 
